@@ -10,6 +10,7 @@ Estos son los dos factores mas importantes:
 - Only with Attachments: Yes
   
 *Recomedacion*
+
 Crear un Carpeta y una regla en outlook para mover todos los correos estandarizados hacia esa carpeta para evitar inconveniente.
 
 ### *Apply to each / Create file*
