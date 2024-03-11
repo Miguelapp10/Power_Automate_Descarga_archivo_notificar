@@ -2,6 +2,7 @@
 ### *When a new email arrives (V3)*
 
 ![image](https://github.com/Miguelapp10/Automatizacion_descarga_archivo_notificar_Power_automate/assets/114699192/41e6189a-6295-4c59-9da5-dcf6e88be820)
+
 Estos son los dos factores mas importantes:
 - Folder: Seleccionar el forder  que llega el correo de las otras areas
 - Subject Filter : Poner el asunto de manera, pero que sea corto y inicial.
