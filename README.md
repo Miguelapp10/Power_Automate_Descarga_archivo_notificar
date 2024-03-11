@@ -1,4 +1,4 @@
-# Automatización Descarga de Archivos y Notificación en un Grupo mediante Power Automate 
+# Automatización de descarga de archivos y notificar en un Grupo mediante Power Automate 
 
 La automatización de descarga de archivos y notificación en un grupo mediante Power Automate es una solución eficiente que optimiza la gestión de documentos y la comunicación en equipos de trabajo. Esta herramienta permite simplificar tareas repetitivas al eliminar la necesidad de intervención manual, aumentando la productividad y reduciendo posibles errores.
 
